@@ -1,0 +1,1 @@
+draw_text(1250, 19, "Boss HP: " + string(global.bossOneHP));

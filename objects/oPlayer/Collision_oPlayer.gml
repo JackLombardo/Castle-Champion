@@ -1,0 +1,1 @@
+if (!other.dead) room_goto(rDeathScreen);

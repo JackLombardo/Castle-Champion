@@ -1,0 +1,1 @@
+draw_text(150, 19, "SCORE: " + string(score));

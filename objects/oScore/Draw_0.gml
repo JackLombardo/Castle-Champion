@@ -1,0 +1,1 @@
+draw_text(900, 400, "Your Score is: " + string(score));

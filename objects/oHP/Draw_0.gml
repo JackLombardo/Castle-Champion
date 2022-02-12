@@ -1,0 +1,1 @@
+draw_text(39, 19, "HP: " + string(global.HP));
